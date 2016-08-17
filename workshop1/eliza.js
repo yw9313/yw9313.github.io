@@ -44,8 +44,8 @@ var rules = {
     "I am not interested in names",
   ],
   
-  "~* beautiful !*y": [
-  	"Thanks! You are beautiful, too!",
+  "~*x beautiful ~*y": [
+    "Thanks! You are beautiful, too!",
   ],
   	
   "~*x sorry ~*y": [
