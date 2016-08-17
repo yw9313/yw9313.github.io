@@ -7,7 +7,7 @@ body {
 
 h1{
     margin-top:0px;
-    margin-bottom: 10px;
+    margin-bottom: 14px;
     border-bottom: 1px solid #AEB7A7;
 }
 
@@ -35,7 +35,7 @@ a:visited {
 }
 
 img{
-    padding: 15px;
+    padding: 18px;
 }
 
 .headshot{
@@ -50,11 +50,11 @@ img{
     font-size: 110%;
     background:gray;
     padding: 4px;
-    border:1px solid white;
+    border:2px solid white;
 }
 
 .button {
-    background: white;
+    background: grey;
     font-size: 110%;
     color:gray;
     padding: 4px;
