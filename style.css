@@ -1,7 +1,7 @@
 body {
     background-color: rgb(100, 100, 100);
     color: linen;
-    font-size: 165%;
+    font-size: 150%;
     line-height: 1.4;
 }
 
@@ -46,7 +46,7 @@ img{
 
 .textbox {
     width:70%;
-    color: pink;
+    color: white;
     font-size: 110%;
     background:gray;
     padding: 4px;
@@ -54,7 +54,7 @@ img{
 }
 
 .button {
-    background: grey;
+    background: white;
     font-size: 110%;
     color:gray;
     padding: 4px;
