@@ -46,6 +46,7 @@ var rules = {
   
   "~*x beautiful ~*y": [
     "Thanks! You are beautiful, too!",
+    "And you are cute and humorous~ Nice to meet you!"
   ],
   	
   "~*x sorry ~*y": [
