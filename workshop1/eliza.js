@@ -43,6 +43,11 @@ var rules = {
   "~*x name ~*y": [
     "I am not interested in names",
   ],
+  
+  "~* beautiful !*y": [
+  	"Thanks! You are beautiful, too!",
+  ],
+  	
   "~*x sorry ~*y": [
     "Please don't apologize",
     "Apologies are not necessary",
